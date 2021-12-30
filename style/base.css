@@ -7,6 +7,7 @@
     --header-hight:121px;
     --navbar-hight:34px;
     --start-gold:#FFCE3E;
+    --header-sort-hight:46px;
 }
 
 * {
@@ -30,21 +31,6 @@ html {
 
     /* responsive */
 
-
-.grid__full-width {
-    width: 100%;
-}
-
-.grid {
-    /* start */
-    width: 1200px;
-    max-width: 100%;
-    margin: 0 auto;
-    /* end */
-
-
-
-}
 
 .grid__row {
     /* start */
