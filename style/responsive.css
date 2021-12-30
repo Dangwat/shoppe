@@ -102,7 +102,9 @@
         animation: identifier linear .3s ;
     }
 
-   
+    .header-car {
+        margin: 0 30px;
+    }
 
     .checkbox-search:checked ~ .header-search {
         display:flex;
