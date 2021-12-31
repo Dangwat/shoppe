@@ -80,6 +80,12 @@
         flex: 1;
         height: unset;
         margin-left: 3rem;
+       
+    }
+
+    .header__logo-img {
+        height: 100%;
+        width: 100px;
     }
     
     .header__logo-link {
@@ -143,6 +149,15 @@
 
     .footer__item-text-img {
         margin-left: 1rem;
+    }
+
+    .category-mobile {
+        display: block;
+    }
+
+    .container {
+     
+        padding-top:unset;
     }
 }
 
